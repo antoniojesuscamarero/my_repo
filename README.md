@@ -1,2 +1,2 @@
 # my_repo
-Primer fichero en el primer repositorio de <nombre apellidos>
+Primer fichero en el primer repositorio de <AJ CM>
